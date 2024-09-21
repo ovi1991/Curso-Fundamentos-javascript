@@ -1,0 +1,8 @@
+{
+  "git.autofetch": true,
+  "javascript.preferences.useAliasesForRenames": false,
+  "typescript.preferences.useAliasesForRenames": true,
+  "python.analysis.diagnosticSeverityOverrides": {},
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true
+}
